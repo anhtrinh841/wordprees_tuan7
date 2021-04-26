@@ -1,0 +1,290 @@
+2021-04-26T07:55:22+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T07:56:22+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T07:57:22+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T07:58:22+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T07:58:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wordpress\wp-includes\Requests\Transport\cURL.php on line 462
+
+2021-04-26T07:59:22+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:00:22+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:01:22+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:02:22+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:03:22+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:04:22+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:05:22+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:06:23+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:07:22+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:08:23+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:09:33+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:10:34+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:12:35+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:14:36+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:15:37+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:17:38+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:19:39+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:21:40+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:23:41+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
+2021-04-26T08:25:42+00:00 CRITICAL Uncaught Error: Class 'WC_Status_Tracking' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php:178
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): WC_Site_Tracking::init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-site-tracking.php on line 178
+
